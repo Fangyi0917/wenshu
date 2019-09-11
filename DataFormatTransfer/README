@@ -11,3 +11,11 @@ ElementTree是轻量级的DOM
 html2json.py
 
 将HTMl格式的文书文件，再将多个文书进行序列化，转换成一个json文件，json是轻量级的数据交换格式。
+
+
+
+html2json.py
+
+html_to_text 在线格式转换工具：
+
+https://www.textfixer.com/html/html-to-text.php
